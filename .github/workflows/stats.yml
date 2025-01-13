@@ -1,43 +1,29 @@
-name: GitHub Stats Update
+name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: "0 * * * *"  # Atualiza a cada hora (você pode mudar a frequência)
-  workflow_dispatch:  # Permite rodar manualmente
+    - cron: '0 */12 * * *' # Executa a cada 12 horas
+  workflow_dispatch:
 
 jobs:
-  update-stats:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out the repository
-        uses: actions/checkout@v2
+      - name: Checkout Code
+        uses: actions/checkout@v3
 
-      - name: Set up Python environment
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
-
-      - name: Install required packages
+      - name: Generate GitHub Stats
+        env:
+          GITHUB_TOKEN: ${{ secrets.git_token }}
         run: |
-          python -m pip install --upgrade pip
-          pip install requests
-
-      - name: Generate stats images
-        run: |
-          curl -o github_stats.png "https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&count_private=true&token=${{ secrets.TOKEN }}"
-          curl -o top_languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&token=${{ secrets.TOKEN }}"
-
-      - name: Set up authentication
-        run: |
-          git config --global user.name 'GitHub Actions'
-          git config --global user.email 'actions@github.com'
-          git remote set-url origin https://$GITHUB_ACTOR:${{ secrets.TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+          curl -o github_stats.png "https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&count_private=true&theme=radical&hide_border=true&token=${{ secrets.git_token }}"
+          curl -o top_languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&hide_border=true&token=${{ secrets.git_token }}"
       
-      - name: Commit and push stats to README
+      - name: Commit and Push
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add github_stats.png top_languages.png
           git commit -m "Atualizar estatísticas do GitHub" || echo "Nada para commit"
-          git push origin HEAD:main || echo "Push falhou"
+          git push
