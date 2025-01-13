@@ -39,8 +39,10 @@ Married and a proud father of two wonderful girls, I am responsible, curious, an
 - Development of customized solutions for Protheus and other business platforms.
 
 ## 📊 GitHub Stats
-![GitHub Stats](github_stats.png)
-![Top Languages](top_languages.png)
+![GitHub Stats](https://github.com/Raphael345/raphael345/raw/main/github_stats.png)
+![Top Languages](https://github.com/Raphael345/raphael345/raw/main/top_languages.png)
+
+
 
 
 ## 📫 Contact
