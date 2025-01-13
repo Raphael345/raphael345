@@ -37,9 +37,10 @@ Married and a proud father of two wonderful girls, I am responsible, curious, an
 - Development of customized solutions for Protheus and other business platforms.
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&hide_title=true&count_private=true&theme=radical&hide=prs&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&hide_border=true)
+
+![GitHub Stats](https://github.com/Raphael345/Raphael345/raw/main/github_stats.png)
+![Top Languages](https://github.com/Raphael345/Raphael345/raw/main/top_languages.png)
+
 
 
 
