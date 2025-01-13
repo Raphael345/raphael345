@@ -1,22 +1,27 @@
 # Hello, I'm Rapha!! 👋
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Raphael345&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+<p align="center">
+  <a href="#">
+    <img height="200" src="https://my-stats-43gk.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+  </a>
+  <a href="#">
+    <img height="200" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Raphael345&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+  </a>
+</p>
 
-<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical"/>
-<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Raphael345&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+<p align="left">
+  <img height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical"/>
+  <img height="97" src="https://github-profile-trophy.vercel.app/?username=Raphael345&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+</p>
 
-<a href=#><img src="contributions.svg"></a>
+<p align="center">
+  <a href="#"><img src="contributions.svg"></a>
+</p>
 
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Raphael345/count.svg" />
 </p>
-
 
 ## 🚀 Technical Skills
 - **Infrastructure:** Network Management, Firewalls, VPNs, Linux Servers.
@@ -33,9 +38,15 @@
 - Network security and open-source solutions.
 - Development of customized solutions for Protheus and other business platforms.
 
-
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-dias-277870153/) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raphaeldias345@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/raphael-dias-277870153/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:raphaeldias345@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 Welcome to my GitHub profile! Here's a little about me:
 
@@ -46,9 +57,9 @@ My experience also includes managing, deploying, and configuring Google Workspac
 
 Currently, I work with TOTVS Protheus, developing custom programs in ADVPL, applying continuous delivery patches, and monitoring the environment.
 
-I have solid knowledge of IT ticketing systems like GLPI and network monitoring tools like Zabbix. 
+I have solid knowledge of IT ticketing systems like GLPI and network monitoring tools like Zabbix.
 
-In the productivity realm, I excel in advanced Excel and VBA, with intermediate skills in other Microsoft Office tools. 
+In the productivity realm, I excel in advanced Excel and VBA, with intermediate skills in other Microsoft Office tools.
 
 In development, I graduated from SAP Academy in the ABAP module, with a great passion for the language. I also work as a freelancer developing small to medium full-stack applications using languages such as PHP, Python (with Django), Java, Go, HTML, CSS, and JavaScript.
 
@@ -60,3 +71,4 @@ Married and a proud father of two wonderful girls, I am responsible, curious, an
 
 ---
 ⭐ Always seeking new solutions and learning opportunities! 😊
+
