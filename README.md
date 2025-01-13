@@ -12,7 +12,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true)
 
-![Recent Contributions](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+![Recent Contributions](https://streak-stats.demolab.com/?user=Raphael345&theme=radical&hide_border=true)
 
 ![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
 
