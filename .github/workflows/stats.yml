@@ -2,8 +2,8 @@ name: GitHub Stats Update
 
 on:
   schedule:
-    - cron: "0 * * * *" # Atualiza a cada hora, você pode modificar o cronograma
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 * * * *"  # Atualiza a cada hora (você pode mudar a frequência)
+  workflow_dispatch:  # Permite rodar manualmente
 
 jobs:
   update-stats:
@@ -25,7 +25,6 @@ jobs:
 
       - name: Generate stats images
         run: |
-          # Substitua com o seu nome de usuário e token do GitHub
           curl -o github_stats.png "https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&count_private=true&token=${{ secrets.TOKEN }}"
           curl -o top_languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&token=${{ secrets.TOKEN }}"
 
@@ -34,5 +33,5 @@ jobs:
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
           git add github_stats.png top_languages.png
-          git commit -m "Atualizar estatísticas do GitHub"
-          git push
+          git commit -m "Atualizar estatísticas do GitHub" || echo "Nada para commit"
+          git push origin HEAD:main || echo "Push falhou"
