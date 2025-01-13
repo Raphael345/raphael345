@@ -39,8 +39,8 @@ Married and a proud father of two wonderful girls, I am responsible, curious, an
 - Development of customized solutions for Protheus and other business platforms.
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelDias&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelDias&layout=compact&theme=radical)
+![GitHub Stats](github_stats.png)
+![Top Languages](top_languages.png)
 
 
 ## 📫 Contact
