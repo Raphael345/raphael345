@@ -10,6 +10,10 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&count_private=true)
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&count_private=true)
+
+![Recent Contributions](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true)
+
 ![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
 
 ## 🌟 Professional Interests
