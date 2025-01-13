@@ -26,8 +26,8 @@ jobs:
       - name: Generate stats images
         run: |
           # Substitua com o seu nome de usuário e token do GitHub
-          curl -o github_stats.png "https://github-readme-stats.vercel.app/api?username=RaphaelDias&show_icons=true&theme=radical&count_private=true&token=${{ secrets.GITHUB_TOKEN }}"
-          curl -o top_languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelDias&layout=compact&theme=radical&count_private=true&token=${{ secrets.GITHUB_TOKEN }}"
+          curl -o github_stats.png "https://github-readme-stats.vercel.app/api?username=RaphaelDias&show_icons=true&theme=radical&count_private=true&token=${{ secrets.TOKEN }}"
+          curl -o top_languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelDias&layout=compact&theme=radical&count_private=true&token=${{ secrets.TOKEN }}"
 
       - name: Commit and push stats to README
         run: |
