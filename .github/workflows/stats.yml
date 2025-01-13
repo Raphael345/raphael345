@@ -13,13 +13,18 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
+      - name: Install ImageMagick
+        run: sudo apt-get install imagemagick
+
       - name: Generate GitHub Stats
         env:
           GITHUB_TOKEN: ${{ secrets.git_token }}
         run: |
-          curl -o github_stats.png "https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&count_private=true&theme=radical&hide_border=true&token=${{ secrets.git_token }}"
-          curl -o top_languages.png "https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&hide_border=true&token=${{ secrets.git_token }}"
-      
+          curl -o github_stats.svg "https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&count_private=true&theme=radical&hide_border=true&token=${{ secrets.git_token }}"
+          curl -o top_languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&hide_border=true&token=${{ secrets.git_token }}"
+          convert github_stats.svg github_stats.png
+          convert top_languages.svg top_languages.png
+
       - name: Commit and Push
         run: |
           git config --global user.name 'GitHub Actions'
