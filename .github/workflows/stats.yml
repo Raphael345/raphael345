@@ -41,7 +41,6 @@ jobs:
           git add github_stats.png top_languages.png
           git commit -m "Atualizar estatísticas do GitHub" || echo "Nada para commit"
           git push origin HEAD:main || echo "Push falhou"
-          - name: Update README with image links
                 
       - name: Update README with image links
         run: |
