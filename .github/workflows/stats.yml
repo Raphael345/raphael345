@@ -41,10 +41,3 @@ jobs:
           git add github_stats.png top_languages.png
           git commit -m "Atualizar estatísticas do GitHub" || echo "Nada para commit"
           git push origin HEAD:main || echo "Push falhou"
-                
-      - name: Update README with image links
-        run: |
-          sed -i 's|https://github-readme-stats.vercel.app/api|https://github.com/Raphael345/raphael345/raw/main|g' README.md
-          git add README.md
-          git commit -m "Atualizar links das imagens no README"
-          git push origin HEAD:main
