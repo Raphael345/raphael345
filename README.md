@@ -1,4 +1,4 @@
-# Hello, I'm Raphael Dias! 👋
+# Hello, I'm Rapha!! 👋
 
 ![Header](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
 
@@ -25,13 +25,13 @@ Married and a proud father of two wonderful girls, I am responsible, curious, an
 
 ## 🚀 Technical Skills
 - **Infrastructure:** Network Management, Firewalls, VPNs, Linux Servers.
-- **Development:** ADVPL, ABAP, PHP, Python (Django), Java, Go, JavaScript.
+- **Development:** ADVPL, ABAP, PHP, Python (Django), Java, Go, JavaScript, HTML, CSS, C++, C#.
 - **Tools:** Docker, Git & GitHub, Nginx, Apache.
 - **Database:** Oracle, MySQL.
 - **Productivity:** Excel (Advanced), VBA, Microsoft Office.
 - **BI Tools:** SQL, Qlik, Power BI.
 
-![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle)
+![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
 
 ## 🌟 Professional Interests
 - Automation of processes and custom scripts.
@@ -40,10 +40,11 @@ Married and a proud father of two wonderful girls, I am responsible, curious, an
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaphaelDias&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelDias&layout=compact&theme=radical)
+
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/raphael-dias-277870153/)) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raphaeldias345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/raphael-dias-277870153/) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:raphaeldias345@gmail.com)
 
 ---
 ⭐ Always seeking new solutions and learning opportunities! 😊
