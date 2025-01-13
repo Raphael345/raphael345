@@ -14,7 +14,17 @@
 
 ![Recent Contributions](https://streak-stats.demolab.com/?user=Raphael345&theme=radical&hide_border=true)
 
+
+### Featured Repositories
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Raphael345&repo=django_2s_production&theme=radical)](https://github.com/Raphael345/django_2s_production)
+
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Raphael345&repo=REPOSITORY2&theme=radical)](https://github.com/Raphael345/REPOSITORY2)
+
 ![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
+
+
+
 
 ## 🌟 Professional Interests
 - Automation of processes and custom scripts.
