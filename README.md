@@ -27,7 +27,7 @@
 - **Productivity:** Excel (Advanced), VBA, Microsoft Office.
 - **BI Tools:** SQL, Qlik, Power BI.
 
-![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
+![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,html,css,cpp,cs)
 
 ## 🌟 Professional Interests
 - Automation of processes and custom scripts.
