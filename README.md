@@ -8,6 +8,9 @@
 
 <p align="left" style="display: flex; flex-wrap: wrap;">
   <img height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical" style="margin-right: 10px;"/>
+</p>
+
+<p align="left" style="display: flex; flex-wrap: wrap;">
   <img height="97" src="https://github-profile-trophy.vercel.app/?username=Raphael345&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p>
 
