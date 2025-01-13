@@ -8,7 +8,7 @@
 - **Productivity:** Excel (Advanced), VBA, Microsoft Office.
 - **BI Tools:** SQL, Qlik, Power BI.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&count_private=true)
 
 ![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
 
