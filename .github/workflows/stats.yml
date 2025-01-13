@@ -13,8 +13,8 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v3
 
-      - name: Install ImageMagick
-        run: sudo apt-get install imagemagick
+      - name: Install rsvg-convert
+        run: sudo apt-get install -y librsvg2-bin
 
       - name: Generate GitHub Stats
         env:
@@ -22,8 +22,8 @@ jobs:
         run: |
           curl -o github_stats.svg "https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&count_private=true&theme=radical&hide_border=true&token=${{ secrets.git_token }}"
           curl -o top_languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true&hide_border=true&token=${{ secrets.git_token }}"
-          convert github_stats.svg github_stats.png
-          convert top_languages.svg top_languages.png
+          rsvg-convert -o github_stats.png github_stats.svg
+          rsvg-convert -o top_languages.png top_languages.svg
 
       - name: Commit and Push
         run: |
