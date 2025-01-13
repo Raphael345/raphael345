@@ -1,16 +1,16 @@
 # Hello, I'm Rapha!! 👋
 
 <p align="center">
-  <a href="#">
+  <a href="#" style="display: inline-block; margin-right: 10px;">
     <img height="200" src="https://my-stats-43gk.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
-  <a href="#">
+  <a href="#" style="display: inline-block;">
     <img height="200" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Raphael345&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
   </a>
 </p>
 
-<p align="left">
-  <img height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical"/>
+<p align="left" style="display: flex; flex-wrap: wrap;">
+  <img height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical" style="margin-right: 10px;"/>
   <img height="97" src="https://github-profile-trophy.vercel.app/?username=Raphael345&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
 </p>
 
