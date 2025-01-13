@@ -1,5 +1,23 @@
 # Hello, I'm Rapha!! 👋
 
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Raphael345&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+
+<img align="left" height=202 src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical"/>
+<img align="left" height=97 src="https://github-profile-trophy.vercel.app/?username=Raphael345&theme=radical&no-frame=true&title=Stars,Followers,Commits&column=-1"/>
+
+<a href=#><img src="contributions.svg"></a>
+
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Raphael345/count.svg" />
+</p>
+
+
 ## 🚀 Technical Skills
 - **Infrastructure:** Network Management, Firewalls, VPNs, Linux Servers.
 - **Development:** ADVPL, ABAP, PHP, Python (Django), Java, Go, JavaScript, HTML, CSS, C++, C#.
@@ -8,23 +26,7 @@
 - **Productivity:** Excel (Advanced), VBA, Microsoft Office.
 - **BI Tools:** SQL, Qlik, Power BI.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael345&layout=compact&theme=radical&count_private=true)
-
-![Recent Contributions](https://streak-stats.demolab.com/?user=Raphael345&theme=radical&hide_border=true)
-
-
-### Featured Repositories
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=Raphael345&repo=django_2s_production&theme=radical)](https://github.com/Raphael345/django_2s_production)
-
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=Raphael345&repo=REPOSITORY2&theme=radical)](https://github.com/Raphael345/REPOSITORY2)
-
 ![Skills](https://skillicons.dev/icons?i=python,docker,linux,nginx,git,java,php,js,mysql,oracle,html,css,cpp,cs)
-
-
-
 
 ## 🌟 Professional Interests
 - Automation of processes and custom scripts.
