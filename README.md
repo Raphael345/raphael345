@@ -1,7 +1,5 @@
 # Hello, I'm Rapha!! 👋
 
-![Header](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
-
 Welcome to my GitHub profile! Here's a little about me:
 
 ## 👨‍💻 About Me
