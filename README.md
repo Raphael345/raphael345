@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#" style="display: inline-block; margin-right: 10px;">
-    <img height="200" src="https://my-stats-43gk.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+    <img height="200" align="center" src="https://my-stats-43gk.vercel.app/api?username=Raphael345&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
   </a>
 </p>
 
