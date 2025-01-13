@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="rigth" style="display: flex; flex-wrap: wrap;">
+<p align="right" style="display: flex; flex-wrap: wrap;">
   <img height="202" src="https://github-readme-streak-stats-git-main-davids-projects-ad77adcc.vercel.app/?user=Raphael345&theme=radical" style="margin-right: 10px;"/>
 </p>
 
